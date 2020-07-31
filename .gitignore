@@ -7,5 +7,6 @@ old
 /.nyc_output
 /dist
 /tmp
+/data
 /yarn.lock
 .DS_Store
